@@ -107,7 +107,8 @@
  
  **Fábio Adriano Silveira**
  
- Me interessei na carreira como desenvolvedor de software aos 16 anos, quando tive o primeiro contato com linguagens de programação (C++ e C#) e desenvolvimento de sistemas no Instituto Federal de São Paulo.
- Durante o curso descobri a área de desenvolvimento web, o que é meu foco de estudos atual já que quero ser um desenvolver back-end. Hoje, com 18 anos e recém-formado, estou investindo em aprender sobre desenvolvimento de software (principalmente usando JavaScript) e metodologias ágeis para ingressar no mercado de trabalho em breve..</p>
+ Me interessei na carreira como desenvolvedor de software aos 16 anos, quando tive o primeiro contato com linguagens de programação (C++ e C#) e desenvolvimento de sistemas no Instituto Federal de São Paulo.</p>
+ <p allign= "center"> Durante o curso descobri a área de desenvolvimento web, o que é meu foco de estudos atual já que quero ser um desenvolver back-end. Hoje, com 18 anos e recém-formado, estou investindo em aprender sobre desenvolvimento de software (principalmente usando JavaScript) e metodologias ágeis para ingressar no mercado de trabalho em breve.
+ </p>
  
 LinkedIn - https://www.linkedin.com/in/fabio-adriano-silveira/
