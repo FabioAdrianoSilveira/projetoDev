@@ -5,12 +5,13 @@
 
 Sumário da pesquisa
 ===================
+<!--ts-->
 *[O que o mercado atual busca](#mercadoAtual)
 *[Perfil de programador mais vizado](#perfilProgramadores)
 *[Competências mais procuradas](#competencias)
 *[Conclusão final da pesquisa](#conclusao)
 *[Empresas usadas como base da pesquisa](#empresas)
 *[Sobre o autor](#sobreAutor)
-==============
+<!--te-->
 
 # O que o mercado atual busca
