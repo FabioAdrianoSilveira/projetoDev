@@ -103,4 +103,4 @@ Sumário da pesquisa
 
 # Sobre o autor
 <p allign="center"> Fábio Adriano Silveira. Atualmente (2021) com 18 anos, sou estudante e busco ingressar na carreira de desenvolvedor back-end.</p>
-**LinkedIn - ** https://www.linkedin.com/in/fabio-adriano-silveira/
+**LinkedIn -** https://www.linkedin.com/in/fabio-adriano-silveira/
