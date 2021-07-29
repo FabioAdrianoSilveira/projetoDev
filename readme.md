@@ -9,7 +9,7 @@ Sumário da pesquisa
  * [O que o mercado atual busca](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#o-que-o-mercado-atual-busca)
  * [Competências mais procuradas](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#compet%C3%AAncias-mais-procuradas)
  * [Empresas usadas como base da pesquisa](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#empresas-usadas-como-base-da-pesquisa)
- * [Conclusão final da pesquisa](#conclusao)
+ * [Conclusão final da pesquisa](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#conclus%C3%A3o-final)
  * [Sobre o autor](#sobreAutor)
  
 # O que o mercado atual busca 
