@@ -11,5 +11,5 @@ Sumário da pesquisa
 * [Conclusão final da pesquisa](#conclusao)
 * [Sobre o autor](#sobreAutor)
  
-## O que o mercado atual busca 
+# O que o mercado atual busca 
 <p allign="center"> O perfil de programador mais procurado por contratantes atualmente inclui em suma características básicas que constituem uma pessoa capaz de atuar com eficiência e agregar diversas qualidades a empresa e também a projetos 
