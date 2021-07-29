@@ -17,9 +17,8 @@ Sumário da pesquisa
  **Comunicabilidade e didática:** Não ter medo de se comunicar, trazendo pensamentos e ideias ao grupo sendo capaz de contribuir com o melhor resultado possível além de ser capaz de transmitir informações e difundir conhecimento com a equipe sempre que necessário.
  **Trabalhar em equipe:** Das grandes necessidades desde o primordio do desenvolvimento de software, se você quer de fato fazer um bom trabalho deve ser capaz de trabalhar em equipe agindo em sincronia com a equipe por meio de regras e padrões comuns entre os membros.
  **Conhecimento de ambos front e back-end:** Mesmo que você pretenda atuar em apenas uma das áreas é necessário ter o conhecimento básico de ambas para que você possa ter um entendimento completo do projeto e assim definir junto da equipe o melhor caminho a se tomar com relação a codificação e tecnologias usadas no mesmo.
- 
- **APIs:** Grande parte do mercado web nos dias de hoje se move usando APIs e por isso é necessário ser capaz de comprendelas e manipula-las corretamente se você deseja estar inserido no meio, princialmente uqnado se trata de back-end.
- **Ser capaz de se destacar:** Mais do que "funcionários que cumprem com sua obrigação" o que realmente se procura hoje são pessoas com diferencial e com determinação para estar sempre evoluindo e mudando o mercado, por isso é necessário mostrar e ressaltar suas qualidade da melhor maneira possível, assim você terá um "brilho especial" em meio a todos os outros em busca de um emprego na área.</p>
+  **APIs:** Grande parte do mercado web nos dias de hoje se move usando APIs e por isso é necessário ser capaz de comprendelas e manipula-las corretamente se você deseja estar inserido no meio, princialmente uqnado se trata de back-end.
+  **Ser capaz de se destacar:** Mais do que "funcionários que cumprem com sua obrigação" o que realmente se procura hoje são pessoas com diferencial e com determinação para estar sempre evoluindo e mudando o mercado, por isso é necessário mostrar e ressaltar suas qualidade da melhor maneira possível, assim você terá um "brilho especial" em meio a todos os outros em busca de um emprego na área.</p>
  
  
  #Competências mais procuradas
