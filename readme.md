@@ -24,7 +24,7 @@
  
  
  # Competências mais frequêntes entre os anúncios
- <p allign="center"> Durante a pesquisa fui observando que muitas competências buscadas repetiam diversas vezes em diferentes empresas contratantes e por isso decidi listar e categorizar essas competências em 3 categorias: Alta relevância, certa relevância e pouca relevância, lembrando que essas competências vão desde habilidades até técnologias de desenvolviento
+ <p allign="center"> Durante a pesquisa fui observando que muitas competências buscadas repetiam diversas vezes em diferentes empresas contratantes e por isso decidi listar e categorizar essas competências em 3 categorias: Alta relevância, certa relevância e pouca relevância. Lembrando que essas competências vão desde habilidades até técnologias de desenvolviento
  
  **Alta relevância**
  * Node.js: Apareceu 14 vezes durante a pesquisa
