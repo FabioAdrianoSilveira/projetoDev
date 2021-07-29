@@ -10,7 +10,7 @@ Sumário da pesquisa
  * [Competências mais procuradas](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#compet%C3%AAncias-mais-procuradas)
  * [Empresas usadas como base da pesquisa](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#empresas-usadas-como-base-da-pesquisa)
  * [Conclusão final da pesquisa](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#conclus%C3%A3o-final)
- * [Sobre o autor](#sobreAutor)
+ * [Sobre o autor](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#sobre-o-autor)
  
 # O que o mercado atual busca 
 <p allign="center"> O perfil de programador mais procurado por contratantes atualmente inclui em suma características básicas que constituem uma pessoa capaz de atuar com eficiência e agregar diversas qualidades a empresa e também a projetos produzidos com sua participação, as principais carcterísticas são: 
