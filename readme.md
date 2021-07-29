@@ -54,13 +54,13 @@ Sumário da pesquisa
  * SQLite: Apareceu 1 vezes durante a pesquisa
  * Liderança: Apareceu 1 vezes durante a pesquisa
  * Observation: Apareceu 1 vezes durante a pesquisa
- *LaTeX: Apareceu 1 vezes durante a pesquisa
- *Ciência de Dados: Apareceu 1 vezes durante a pesquisa
- *PHP: Apareceu 1 vezes durante a pesquisa
- *Microsoft Windows: Apareceu 1 vezes durante a pesquisa
- Modelagem de Banco de Dados: Apareceu 1 vezes durante a pesquisa
- Rust: Apareceu 1 vezes durante a pesquisa
- Java: Apareceu 1 vez durante a pesquisa
- NoSQL: Apareceu 1 vez durante a pesquisa
- Amazon Web Service: Apareceu 1 vez durante a pesquisa
- MongoDB: Apareceu 1 vez durante a pesquisa
+ * LaTeX: Apareceu 1 vezes durante a pesquisa
+ * Ciência de Dados: Apareceu 1 vezes durante a pesquisa
+ * PHP: Apareceu 1 vezes durante a pesquisa
+ * Microsoft Windows: Apareceu 1 vezes durante a pesquisa
+ * Modelagem de Banco de Dados: Apareceu 1 vezes durante a pesquisa
+ * Rust: Apareceu 1 vezes durante a pesquisa
+ * Java: Apareceu 1 vez durante a pesquisa
+ * NoSQL: Apareceu 1 vez durante a pesquisa
+ * Amazon Web Service: Apareceu 1 vez durante a pesquisa
+ * MongoDB: Apareceu 1 vez durante a pesquisa
