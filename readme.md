@@ -66,7 +66,7 @@ Sumário da pesquisa
  * MongoDB: Apareceu 1 vez durante a pesquisa </p>
 
  # Empresas usadas como base da pesquisa
- <p allign="center As empresas usadas para a realização da pesquisa sobre o mercado de trabalho e as competências exigidas em vagas foram:
+ <p allign="center"> As empresas usadas para a realização da pesquisa sobre o mercado de trabalho e as competências exigidas em vagas foram:
  * Koin
  * Olist
  * Hays
