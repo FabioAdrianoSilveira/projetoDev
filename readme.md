@@ -97,3 +97,10 @@ Sumário da pesquisa
  * Dowhile
  * Noverde 
 </p>
+
+# Conclusão final
+<p allign="center"> O mercado de desenvolvimento de software é emergente no mundo em que vivemos e recompensador se falamos da questão salárial mas assim como o esperado, para que você possa se inserir nele e se manter em um alto nível de mercado é necessário que você tenha determinação de sempre estar melhorando, pesquisando e aprendendo mais e mais, afinal o mercado de trabalho não vai esperar por você então a melhor opção é se esforçar para ser uma das pessoas que estará a frente mudando e causando impacto positivo no mercado por se destacar </p>
+
+# Sobre o autor
+<p allign="center"> Fábio Adriano Silveira. Atualmente (2021) com 18 anos, sou estudante e busco ingressar na carreira de desenvolvedor back-end.</p>
+[LinkedIn] (https://www.linkedin.com/in/fabio-adriano-silveira/)
