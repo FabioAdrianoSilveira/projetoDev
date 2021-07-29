@@ -11,6 +11,5 @@ Sumário da pesquisa
 * [Conclusão final da pesquisa](#conclusao)
 * [Empresas usadas como base da pesquisa](#empresas)
 * [Sobre o autor](#sobreAutor)
-
-[o que o mercado atual busca] 
- # O que o mercado atual busca 
+ 
+# O que o mercado atual busca 
