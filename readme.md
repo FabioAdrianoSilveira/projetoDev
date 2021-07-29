@@ -12,4 +12,4 @@ Sumário da pesquisa
 *[Empresas usadas como base da pesquisa](#empresas)
 *[Sobre o autor](#sobreAutor)
 
-##O que o mercado atual busca
+#O que o mercado atual busca
