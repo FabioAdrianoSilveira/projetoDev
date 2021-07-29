@@ -69,33 +69,7 @@
 </p>
 
  # Empresas consideradas nas pesquisas
- * Koin
- * Olist
- * Hays
- * Meubank
- * Santander
- * Xerpay
- * KRYPTUS
- * Quero 2 Pay
- * B2W
- * Vulpi
- * Itaú
- * Andela
- * Open Co
- * Trampolin
- * Radartec
- * Wa Project
- * Afinz
- * Caju
- * Fhinck
- * Monetiz
- * Deliver IT
- * CrediHome
- * transferbank
- * Squid
- * Pixter
- * Dowhile
- * Noverde 
+ Afinz, Andela, B2W, Caju, CrediHome, Deliver IT, Dowhile, Fhinck, Hays, Itaú, Koin, KRYPTUS, Meubank, Monetiz, Noverde, Olist, Open Co, Pixter, Quero 2 Pay, Radartec, Santander, Squid, Trampolin, transferbank, Vulpi, Wa Project, Xerpay.
 </p>
 
 # Considerações finais
@@ -112,4 +86,4 @@
  Durante o curso descobri a área de desenvolvimento web, o que é meu foco de estudos atual já que quero ser um desenvolver back-end. Hoje, com 18 anos e recém-formado, estou investindo em aprender sobre desenvolvimento de software (principalmente usando JavaScript) e metodologias ágeis para ingressar no mercado de trabalho em breve.
  </p>
  
- - https://www.linkedin.com/in/fabio-adriano-silveira/
+ **Perfil do LinkedIn -** https://www.linkedin.com/in/fabio-adriano-silveira/
