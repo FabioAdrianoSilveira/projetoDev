@@ -6,10 +6,10 @@
 
 Índice
 ===================
- * [Expectativa qualitativa das empresas](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#o-que-o-mercado-atual-busca)
- * [Competências mais frequêntes entre os anúncios](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#compet%C3%AAncias-mais-procuradas)
- * [Empresas consideradas na pesquisa](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#empresas-usadas-como-base-da-pesquisa)
- * [Considerações finais](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#conclus%C3%A3o-final)
+ * [Expectativa qualitativa das empresas](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#expectativa-qualitativa-das-empresas)
+ * [Competências mais frequêntes entre os anúncios](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#compet%C3%AAncias-mais-frequ%C3%AAncias-entre-os-an%C3%BAncios)
+ * [Empresas consideradas na pesquisa](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#empresas-consideradas-nas-pesquisas)
+ * [Considerações finais](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#considera%C3%A7%C3%B5es-finais)
  * [Sobre o autor](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#sobre-o-autor)
  
 # Expectativa qualitativa das empresas 
