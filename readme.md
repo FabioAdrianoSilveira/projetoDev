@@ -25,11 +25,42 @@ Sumário da pesquisa
  <p allign="center"> Durante a pesquisa fui observando que muitas competências buscadas repetiam diversas vezes em diferentes empresas contratantes e por isso decidi listar e categorizar essas competências em 3 categorias: Alta relevância, certa relevância e pouca relevância, lembrando que essas competências vão desde habilidades até técnologias de desenvolviento
  
  Alta relevância
- * Node.js:
- * HTML:
- * SQL:
- * CSS:
- * Inglês:
- * JavaScript:
- * TypeScript:
- * Git:
+ * Node.js: Apareceu 14 vezes durante a pesquisa
+ * HTML: Apareceu 9 vezes durante a pesquisa
+ * SQL: Apareceu 8 vezes durante a pesquisa
+ * CSS: Apareceu 8 vezes durante a pesquisa
+ * Inglês: Apareceu 8 vezes durante a pesquisa
+ * JavaScript: Apareceu 8 vezes durante a pesquisa
+ * Git: Apareceu 7 vezes durante a pesquisa
+ 
+ Certa relevância
+ * Python: Apareceu 6 vezes durante a pesquisa
+ * React.js: Apareceu 6 vezes durante a pesquisa
+ * MySQL: Apareceu 6 vezes durante a pesquisa
+ * PostgreSQL: Apareceu 4 vezes durante a pesquisa
+ * Git Hub: Apareceu 4 vezes durante a pesquisa
+ * React Native: Apareceu 3 vezes durante a pesquisa
+ * Bootstrap: Apareceu 3 vezes durante a pesquisa
+
+ Pouca relevância
+ * C: Apareceu 2 vezes durante a pesquisa
+ * Gestão: Apareceu 2 vezes durante a pesquisa
+ * Microsoft Excel: Apareceu 2 vezes durante a pesquisa
+ * Linux: Apareceu 2 vezes durante a pesquisa
+ * TypeScript: Apareceu 2 vezes durante a pesquisa
+ * Espanhol: Apareceu 2 vezes durante a pesquisa
+ * Português: Apareceu 2 vezes durante a pesquisa
+ * Django: Apareceu 1 vezes durante a pesquisa
+ * SQLite: Apareceu 1 vezes durante a pesquisa
+ * Liderança: Apareceu 1 vezes durante a pesquisa
+ * Observation: Apareceu 1 vezes durante a pesquisa
+ *LaTeX: Apareceu 1 vezes durante a pesquisa
+ *Ciência de Dados: Apareceu 1 vezes durante a pesquisa
+ *PHP: Apareceu 1 vezes durante a pesquisa
+ *Microsoft Windows: Apareceu 1 vezes durante a pesquisa
+ Modelagem de Banco de Dados: Apareceu 1 vezes durante a pesquisa
+ Rust: Apareceu 1 vezes durante a pesquisa
+ Java: Apareceu 1 vez durante a pesquisa
+ NoSQL: Apareceu 1 vez durante a pesquisa
+ Amazon Web Service: Apareceu 1 vez durante a pesquisa
+ MongoDB: Apareceu 1 vez durante a pesquisa
