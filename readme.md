@@ -63,4 +63,34 @@ Sumário da pesquisa
  * Java: Apareceu 1 vez durante a pesquisa
  * NoSQL: Apareceu 1 vez durante a pesquisa
  * Amazon Web Service: Apareceu 1 vez durante a pesquisa
- * MongoDB: Apareceu 1 vez durante a pesquisa
+ * MongoDB: Apareceu 1 vez durante a pesquisa </p>
+
+ # Empresas usadas como base da pesquisa
+ <p allign="center> As empresas usadas para a realização da pesquisa sobre o mercado de trabalho e as competências exigidas em vagas foram:
+ * Koin
+ * Olist
+ * Hays
+ * Meubank
+ * Santander
+ * Xerpay
+ * KRYPTUS
+ * Quero 2 Pay
+ * B2W
+ * Vulpi
+ * Itaú
+ * Andela
+ * Open Co
+ * Trampolin
+ * Radartec
+ * Wa Project
+ * Afinz
+ * Caju
+ * Fhinck
+ * Monetiz
+ * Deliver IT
+ * CrediHome
+ * transferbank
+ * Squid
+ * Pixter
+ * Dowhile
+ * Noverde </p>
