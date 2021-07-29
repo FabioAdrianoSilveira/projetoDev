@@ -5,7 +5,7 @@
 
 Sumário da pesquisa
 ===================
-* [O que o mercado atual busca](#mercadoAtual)
+* [O que o mercado atual busca](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#o-que-o-mercado-atual-busca)
 * [Perfil de programador mais vizado](#perfilProgramadores)
 * [Competências mais procuradas](#competencias)
 * [Conclusão final da pesquisa](#conclusao)
