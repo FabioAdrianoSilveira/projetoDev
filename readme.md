@@ -12,7 +12,7 @@
  * [Considerações finais](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#conclus%C3%A3o-final)
  * [Sobre o autor](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#sobre-o-autor)
  
-# Espectativa qualitativa das empresas 
+# Expectativa qualitativa das empresas 
 <p allign="center"> O perfil de programador mais procurado por contratantes atualmente inclui em suma características básicas que constituem uma pessoa capaz de atuar com eficiência e agregar diversas qualidades a empresa e também a projetos produzidos com sua participação, as principais carcterísticas são: 
  
 1. **Comunicabilidade e didática:** Não ter medo de se comunicar, trazendo pensamentos e ideias ao grupo sendo capaz de contribuir com o melhor resultado possível além de ser capaz de transmitir informações e difundir conhecimento com a equipe sempre que necessário.
