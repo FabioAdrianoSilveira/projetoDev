@@ -1,18 +1,18 @@
 <h1 allign= "center"> analiseVagasBackend </h1>
 
 # Introdução
-<p allign="center"> Recentemente realizei uma pesquisa sobre vagas de desenvolvimento back-end com a intenção de compreender mais claramente como funciona melhor o mercado de trabalho na área, nessa pesquisa analisei algumas empresas e fui capaz de perceber e registrar: Uma ideia geral do que buscam os contratantes atualmente e competências mais procuradas no momento. Ao fim da pesquisa achei as informações que pude coletar muito interessantes e por isso estou aqui para compartilha-las
+<p allign="center"> Fiz uma pesquisa sobre vagas de desenvolvimento back-end com a intenção de enteder mais sobre como é o mercado de trabalho na área. Nessa pesquisa analisei algumas vagas anunciadas no LinkedIn nas seguintes perspectivas: expectativa qualitativa das empresas e competências mais frequentes entre os anúncios de vaga.  Criei repositório porque sei que essas informações podem ser úteis para outras pessoas interessadas na carreira de engenheiro de software.
 </p>
 
-Sumário da pesquisa
+Índice
 ===================
- * [O que o mercado atual busca](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#o-que-o-mercado-atual-busca)
- * [Competências mais procuradas](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#compet%C3%AAncias-mais-procuradas)
- * [Empresas usadas como base da pesquisa](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#empresas-usadas-como-base-da-pesquisa)
- * [Conclusão final da pesquisa](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#conclus%C3%A3o-final)
+ * [Expectativa qualitativa das empresas](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#o-que-o-mercado-atual-busca)
+ * [Competências mais frequêntes entre os anúncios](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#compet%C3%AAncias-mais-procuradas)
+ * [Empresas consideradas na pesquisa](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#empresas-usadas-como-base-da-pesquisa)
+ * [Considerações finais](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#conclus%C3%A3o-final)
  * [Sobre o autor](https://github.com/FabioAdrianoSilveira/projetodev/blob/main/readme.md#sobre-o-autor)
  
-# O que o mercado atual busca 
+# Espectativa qualitativa das empresas 
 <p allign="center"> O perfil de programador mais procurado por contratantes atualmente inclui em suma características básicas que constituem uma pessoa capaz de atuar com eficiência e agregar diversas qualidades a empresa e também a projetos produzidos com sua participação, as principais carcterísticas são: 
  
 1. **Comunicabilidade e didática:** Não ter medo de se comunicar, trazendo pensamentos e ideias ao grupo sendo capaz de contribuir com o melhor resultado possível além de ser capaz de transmitir informações e difundir conhecimento com a equipe sempre que necessário.
@@ -23,10 +23,10 @@ Sumário da pesquisa
 </p>
  
  
- # Competências mais procuradas
+ # Competências mais frequências entre os anúncios
  <p allign="center"> Durante a pesquisa fui observando que muitas competências buscadas repetiam diversas vezes em diferentes empresas contratantes e por isso decidi listar e categorizar essas competências em 3 categorias: Alta relevância, certa relevância e pouca relevância, lembrando que essas competências vão desde habilidades até técnologias de desenvolviento
  
- Alta relevância
+ **Alta relevância**
  * Node.js: Apareceu 14 vezes durante a pesquisa
  * HTML: Apareceu 9 vezes durante a pesquisa
  * SQL: Apareceu 8 vezes durante a pesquisa
@@ -35,7 +35,7 @@ Sumário da pesquisa
  * JavaScript: Apareceu 8 vezes durante a pesquisa
  * Git: Apareceu 7 vezes durante a pesquisa
  
- Certa relevância
+ **Certa relevância**
  * Python: Apareceu 6 vezes durante a pesquisa
  * React.js: Apareceu 6 vezes durante a pesquisa
  * MySQL: Apareceu 6 vezes durante a pesquisa
@@ -44,7 +44,7 @@ Sumário da pesquisa
  * React Native: Apareceu 3 vezes durante a pesquisa
  * Bootstrap: Apareceu 3 vezes durante a pesquisa
 
- Pouca relevância
+ **Pouca relevância**
  * C: Apareceu 2 vezes durante a pesquisa
  * Gestão: Apareceu 2 vezes durante a pesquisa
  * Microsoft Excel: Apareceu 2 vezes durante a pesquisa
@@ -68,7 +68,7 @@ Sumário da pesquisa
  * MongoDB: Apareceu 1 vez durante a pesquisa 
 </p>
 
- # Empresas usadas como base da pesquisa
+ # Empresas consideradas nas pesquisas
  * Koin
  * Olist
  * Hays
@@ -98,10 +98,13 @@ Sumário da pesquisa
  * Noverde 
 </p>
 
-# Conclusão final
+# Considerações finais
 <p allign="center"> O mercado de desenvolvimento de software é emergente no mundo em que vivemos e recompensador se falamos da questão salárial mas assim como o esperado, para que você possa se inserir nele e se manter em um alto nível de mercado é necessário que você tenha determinação de sempre estar melhorando, pesquisando e aprendendo mais e mais, afinal o mercado de trabalho não vai esperar por você então a melhor opção é se esforçar para ser uma das pessoas que estará a frente mudando e causando impacto positivo no mercado por se destacar. 
 </p>
 
 # Sobre o autor
-<p allign="center"> Fábio Adriano Silveira. Atualmente (2021) com 18 anos, sou estudante e busco ingressar na carreira de desenvolvedor back-end.</p>
+<p allign="center"> **Fábio Adriano Silveira**
+ Me interessei na carreira como desenvolvedor de software aos 16 anos, quando tive o primeiro contato com linguagens de programação (C++ e C#) e desenvolvimento de sistemas no Instituto Federal de São Paulo.
+
+Durante o curso descobri a área de desenvolvimento web, o que é meu foco de estudos atual já que quero ser um desenvolver back-end. Hoje, com 18 anos e recém-formado, estou investindo em aprender sobre desenvolvimento de software (principalmente usando JavaScript) e metodologias ágeis para ingressar no mercado de trabalho em breve..</p>
 LinkedIn - https://www.linkedin.com/in/fabio-adriano-silveira/
