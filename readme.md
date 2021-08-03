@@ -78,7 +78,7 @@
 
 # Sobre o autor
 <p allign="center">
- **Fábio Adriano Silveira**
+ Fábio Adriano Silveira
  
  Me interessei na carreira como desenvolvedor de software aos 16 anos, quando tive o primeiro contato com linguagens de programação (C++ e C#) e desenvolvimento de sistemas no Instituto Federal de São Paulo.
  
