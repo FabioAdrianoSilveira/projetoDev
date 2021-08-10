@@ -80,4 +80,4 @@
  Durante o curso descobri a área de desenvolvimento web, o que é meu foco de estudos atual já que quero ser um desenvolver back-end. Hoje, com 18 anos e recém-formado, estou investindo em aprender sobre desenvolvimento de software (principalmente usando JavaScript) e metodologias ágeis para ingressar no mercado de trabalho em breve.
  </p>
  
- **Perfil do LinkedIn -** https://www.linkedin.com/in/fabio-adriano-silveira/
+  [![Linkedin Badge](https://img.shields.io/badge/-FabioAdrianoSilveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fabio-adriano-silveira/)](https://www.linkedin.com/in/fabio-adriano-silveira/)
